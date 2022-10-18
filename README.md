@@ -1,2 +1,2 @@
-# Mission Hospital-Bootstrap website.
+# My Bootstrap website.
 My FIRST WEBSITE MADE IN BOOTSTRAP.
